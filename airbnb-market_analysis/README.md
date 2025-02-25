@@ -1,6 +1,3 @@
-# Define the content of the README.md file
-readme_content = """# Airbnb Seattle Market Analysis - Tableau Dashboard
-
 ## 📌 Overview
 This project analyzes Airbnb rental prices, revenue trends, and listing distributions in Seattle. The visualizations provide insights into pricing across different zip codes, revenue over time, and the relationship between the number of bedrooms and rental costs.
 
