@@ -14,6 +14,9 @@ This project analyzes Airbnb rental prices, revenue trends, and listing distribu
   - `Listings Count`
   - `Weekly Revenue Trends`
 
+## 📸 Dashboard Screenshot
+![Airbnb Seattle Dashboard](Dashboard_screenshot.png)
+
 ## 📈 Key Insights
 ### **1. Price Distribution by Zip Code**
 - A **bar chart** ranks Seattle zip codes based on **average Airbnb price**.
@@ -46,26 +49,6 @@ This project analyzes Airbnb rental prices, revenue trends, and listing distribu
 3. Explore the dashboard, interact with filters, and analyze trends.
 4. Modify the data source if needed to apply the dashboard to updated datasets.
 
-## 🚀 Future Improvements
-- Incorporate **time series forecasting** to predict future Airbnb revenue.
-- Add **occupancy rates** to measure listing performance.
-- Include **customer reviews & ratings** to analyze guest satisfaction.
-
-## 📸 Dashboard Screenshot
-![Airbnb Seattle Dashboard](dashboard_screenshot.png)
 
 ---
 
-### 📬 Contact
-For questions or suggestions, feel free to reach out!
-"""
-
-# Define the file path
-readme_file_path = "/mnt/data/README.md"
-
-# Save the content to a markdown file
-with open(readme_file_path, "w") as file:
-    file.write(readme_content)
-
-# Provide the file path for download
-readme_file_path
